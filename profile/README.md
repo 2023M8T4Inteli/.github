@@ -13,19 +13,19 @@ Criar um pipeline de Big Data baseado em recursos da AWS (Amazon Web Services), 
 ## 💻 Integração, gerenciamento e análise de BIG DATA:
 
 - Grupo 1 - BigBytes
-  - Link do repositório: https://github.com/2023M8T4Inteli/grupo1
+  - Link do repositório: https://github.com/InteliProjects/2023M8T4Inteli-grupo1
 
 - Grupo 2 - DataDream
-  - Link do repositório: https://github.com/2023M8T4Inteli/grupo2
+  - Link do repositório: https://github.com/InteliProjects/2023M8T4Inteli-grupo2
 
 - Grupo 3 - S.C Integrational
-  - Link do repositório: https://github.com/2023M8T4Inteli/grupo3
+  - Link do repositório: https://github.com/InteliProjects/2023M8T4Inteli-grupo3
 
 - Grupo 4 - Big D.
-  - Link do repositório: https://github.com/2023M8T4Inteli/grupo4
+  - Link do repositório: https://github.com/InteliProjects/2023M8T4Inteli-grupo4
 
 - Grupo 5 - M & C Solutions
-  - Link do repositório: https://github.com/2023M8T4Inteli/grupo5
+  - Link do repositório: https://github.com/InteliProjects/2023M8T4Inteli-grupo5
 
 
 
